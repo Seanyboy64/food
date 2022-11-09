@@ -41,11 +41,42 @@
 
 }
 
- .berry 
-{
-  
-  background-color: pink;
+ .berry {
+   background-color: pink;
     font-family: Poppins, sans-serif;
   font-size: 16px; 
   text-shadow: 2px 2px;
+}
+.button:hover{
+      background-color:#ff5900;
+      transition: 0.7s;
+   outline-color: transparent;
+    outline-style:solid;
+    box-shadow: 0 0 0 4px #2b00ff;
+  font-size: 20px;
+  font-family:comic sans;
+  
+  }
+.a:hover{
+  background-color: #ffffff;
+      border-color:#f500c8;
+      transition: 0.7s;
+   outline-color: transparent;
+    outline-style:solid;
+   font-size: 20px;
+  font-family:sans-serif;
+}
+.wet {
+  font-family: 'Abril Fatface', serif;
+  font-size: 46px;  
+    background-color: #002aff;
+    letter-spacing: 5px;
+
+}
+.rain {
+  font-family: 'Abril Fatface', serif;
+  font-size: 46px;  
+    background-color: #aeff00;
+    letter-spacing: 5px;
+
 }
